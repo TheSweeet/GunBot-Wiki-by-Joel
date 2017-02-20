@@ -1,6 +1,6 @@
              
 
-The GUNBOT Users manual and license agreements
+ The GUNBOT Users manual and license agreements
 ----------------------------------------------
 
 > *Requirements:*
@@ -143,9 +143,8 @@ The picture below shows the profit/loss calculation at poloniex website for the 
 **If you are not able to duplicate this with your own GUNBOT, means your computer is broken so, I will refund what you paid to buy the GUNBOT to help you to buy a new computer Tongue.**
 
 ------------------------------------------------------------------------
-
-             The GUNBOT Terms of Service
----------------------------
+The GUNBOT Terms of Service
+===========================
  - **Terms**
 By purchasing the GUNBOT, you are agreeing to be bound by these Terms and Conditions of Use, all applicable laws, and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from purchasing, using or accessing a GUNBOT. The materials contained in the GUNBOT software are protected by applicable copyright.
  - **Use License**
