@@ -223,5 +223,46 @@ Common errors to avoid using the GUNBOT
 1st case: it happens sometimes that a buy order is not completely fulfilled. The GUNBOT will wait. Soon as the partial order can fulfill, Poloniex will do it. Sometimes tho, the price changes with a partial order on the book. You have 2 possibilities: wait...and wait....and wait....or cancel your partial order on POLONIEX and let GUNBOT go ahead with the partial amount of coin. In this case, DO NOT TOUCH your GUNBOT and cancel the partial buy order on POLO. The GUNBOT will follow your order and will continue with its job. This is not a GUNBOT limit nor a Poloniex limit: this is just related to the coin availability at a certain price and a defined time (your order). I won't allow partial orders to be fulfilled with a different price like other bots do: it is too high risk to loose money. Just cancel your buy order if you see it stuck for hours on partial fulfillment. Maybe in a future release I will implement a saving order book locally but in my opinion, it is useless to persist with a trade at the risk of losing other 10 possible trades.
 The second case you are allowed to put your hands on your running GUNBOT is part of the "dumps" and "dumbs" section so, we will talk about it later.
 
+How to choose a coin to trade with GUNBOT
+---------------------------------------
+ ***Ok, there are some general rules:***
+ 
+
+ - Depending on your trading style: high volume coins give you more
+   frequent trades. You can trade low volume coins if you are a
+   speculator of satoshis trades (for example STELLAR or QORA or
+   DIGIBYTE) 
+ - Do not trade with GUNBOT on surging coins or just premined coins: for example ZEC or dormant coins that just awakened to the moon: trade them manually
+ - DO not trade with GUNBOT on falling coins: by falling coins, i didn't mean "dumps". Read news, ask on the forum: if a coin is about to die or have been dropping their price for DAYS, trade them manually, on an exchange that allows you to short.
+ 
+***Theoretically, the best coin to trade appears like this:***
+            
+![enter image description here](https://ibin.co/34vf3CsOxLU4.png)
+
+***Do not start to trade on coins like this:***
+-----------------------------------------------
+
+ 
+![enter image description here](https://ibin.co/34vgOZKlehcq.png)
+
+***Nor like this:***
+--------------------
+
+ ![enter image description here](https://ibin.co/34vio7aMQfAb.png)
+
+> What about if you started to trade on a coin like this? I will teach
+> you how to not panic and how to eventually correct it manually,
+> helping the poor GUNBOT to come out the shit you put it in .
+> 
+
+            A final note of this chapter about time to trade: like in forex and stocks, 
+            there is more volume (and more trades opportunities) during EU time,
+            because EU is in the middle of EAST and WEST (USA and Asia)
+            so their office time takes a little part from both WEST nights and EAST mornings.
+            Expect less volume (and so fewer trades) while Americans sleep and while Asians sleep.
+             
+
+
+
 
 
